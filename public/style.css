@@ -1,0 +1,30 @@
+body {
+  background-color: #004225
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+
+h3 {
+  color: white;
+  font-size: 25px;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+nav {
+  margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    color: white;
+}
+
+a {
+  color: white;
+}
